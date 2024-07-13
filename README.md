@@ -28,3 +28,15 @@ Detecting fraudulent credit card transactions using data visualization and machi
 ### Decision Tree 🌲
 - Explored for detecting fraud.
 - Evaluated for effectiveness in identifying fraud patterns.
+
+# 3.🚀 SMS spam detection! 🕵️
+
+Here's what I used to tackle this challenge:
+### - **Random Over Sampler** 
+to handle dataset imbalance.
+### - **Multinomial Naive Bayes** and **Gaussian Naive Bayes** 
+for robust classification.
+### - **TF-IDF Vectorizer** 
+to convert text data into meaningful features.
+
+These techniques combined significantly enhanced the accuracy and efficiency of spam detection.  
