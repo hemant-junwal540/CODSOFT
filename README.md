@@ -40,3 +40,23 @@ for robust classification.
 to convert text data into meaningful features.
 
 These techniques combined significantly enhanced the accuracy and efficiency of spam detection.  
+
+# 4.🚀Customer Churn Prediction🔍
+
+Here's a brief overview of the models I used:
+
+## 🌲 Decision Tree Classifier
+
+Simple yet powerful, this model helps in understanding the decision rules and can be visualized easily. It creates a tree-like structure where nodes represent decisions based on customer features.
+
+## 👥 K-Neighbors Classifier (KNN)
+
+An intuitive model that predicts churn by comparing a customer's behavior to that of their 'neighbors' in the feature space. It's effective for small datasets and easy to interpret.
+
+## 🌳 Random Forest Classifier
+
+An ensemble method that builds multiple decision trees and merges them to get a more accurate and stable prediction. It's highly robust and reduces overfitting.
+
+## 🚀 Gradient Boosting Classifier
+
+Another ensemble technique that builds models sequentially, each new model correcting errors made by the previous ones. It is powerful for handling various types of data and achieving high accuracy.
